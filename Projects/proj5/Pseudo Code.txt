@@ -1,0 +1,6 @@
+Simple game program prompts first player to enter number between 0 and 100, then the second player to guess the number.
+< Display message "lower than num"
+> Display message "higher than num"
+= Display appropriete message
+When program ends output number of guesses
+

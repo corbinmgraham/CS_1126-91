@@ -1,0 +1,2 @@
+Good: Corbin, Graham, 4158 Dorchester Dr, Woodbury, MN, 55129, 651-730-6524, 12-19-2001, corbin@metagraham.com, 12345
+Bad (name): ABCDEFGHIJKLMNOPQRSTUVWXYZ, ABCDEFGHIJKLMNOPQRSTUVWXYZ, 4158 Dorchester Dr, Woodbury, MN, 55129, 651, 12/19/01, corbin@metagraham.com, Hola

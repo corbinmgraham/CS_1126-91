@@ -1,0 +1,69 @@
+The class atributes are:
+-First Name
+-Last Name
+-Date of Birth
+ (Day, Month Year)
+
+Constructor Recieves:
+-Date Up There
+
+Methods:
+-Method that calculates age (In years) 
+-Method that calculates maximum heart rate - Return included
+-Method that calculates target heart rate - Return included
+
+Gets and sets:
+
+
+2/4/15
+
+Born:
+12/19/2001
+
+Dates:
+12/18/2015 : 13
+12/19/2015 : 14
+12/20/2015 : 14
+
+11 x 31 = 341
+341 + 18 = 359
+341 + 19 = 360
+341 + 20 = [ 361 ] ---> Day of the year
+if <= then uneffected
+	else - 1 year
+
+Age = current year (2015) - birth year
+
+Birth Day of year = day of year ( month, date ) // Calculate day of year person was born
+
+Current day of year = day of year ( month, date ) // Calculate today's day of year
+
+
+
+
+January = 31
+Febuary = 28
+March = 31
+April = 30
+May = 31
+June = 30
+July = 31
+August = 31
+September = 30 
+October = 31
+November = 30
+
+31 + 28 + 9
+31 + 28 + 31 + 30 + 23
+
+
+dayofyear = date;
+if (--month == 0) return (dayofyear); // january
+dayofyear += 31;
+if (--month == 0) return (dayofyear); // february
+dayofyear += 28;
+if (--month == 0) return (dayofyear); // march
+dayofyear += 31);
+if (--month == 0) return (dayofyear);
+....
+

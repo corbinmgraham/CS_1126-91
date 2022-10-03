@@ -1,0 +1,26 @@
+Calculate normal pay for first 40 hours, and time and a half pay for 40 - 50 hours and double pay for the time over 50 hours.
+
+grossPay = (40 * 50)+ ((60 - 50) * (2 * 50)) + (10 * (1.5 * 50));
+grossPay = 2000 + (10 * 100) + (10 * 75);
+grossPay = 2000 + 1000 + 750
+grossPay = $3,750
+
+Ex. payRate = $50/per hour & hours = 60
+
+while (hours != -1)
+{
+	System.out.print("Enter pay rate");
+	payRate = input.nextInt;
+
+	System.out.print("Enter hours");
+	hours = input.nextInt;
+}
+
+calculateAveragePay
+
+counter to count number of employees
+counter to add total pay
+average = total pay / number of employees
+
+number of employees > 0 --> design this into algorithm
+
